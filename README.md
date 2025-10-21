@@ -6,13 +6,13 @@
 
 ## 📂 Table of Contents
 
-Bu portfolyo, yazılım testi ve kalite güvence alanındaki yetkinliklerimi gösteren çeşitli çalışmaları içermektedir.
+This portfolio contains a collection of my work, demonstrating my skills in software testing and quality assurance.
 
 *   **[Manual Testing Artifacts](#-manual-testing-artifacts)**
     *   [Test Case Suite: WordPress Site Search Functionality](#-test-case-suite-wordpress-site-search-functionality)
     *   [Bug Report: Contact Form Submission Issue](#-bug-report-contact-form-submission-issue)
 *   **[Automation Testing (In Progress)](#-automation-testing-in-progress)**
-    *   *Bu alandaki çalışmalarım yakında eklenecektir.*
+    *   *Work in this area will be added soon.*
 
 ---
 
@@ -36,18 +36,18 @@ Bu portfolyo, yazılım testi ve kalite güvence alanındaki yetkinliklerimi gö
 
 ### 📂 Manual Testing Artifacts
 
-Bu bölümde, manuel test süreçlerindeki yetkinliğimi gösteren dokümantasyon örnekleri yer almaktadır.
+This section contains documentation examples that showcase my proficiency in manual testing processes.
 
 #### ⚫ Test Case Suite: WordPress Site Search Functionality
-*   **Açıklama:** Kişisel WordPress sitemin "Arama" fonksiyonu için hazırlanan pozitif, negatif ve sınır (boundary) test senaryolarını içerir.
-*   **[➡️ Dökümanı Görüntüle](MANUAL-TESTING/TEST-CASES/TC-Search-Functionality.md)**
+*   **Description:** A suite of positive, negative, and boundary test cases designed for the "Search" functionality of my personal WordPress site.
+*   **[➡️ View Document](MANUAL-TESTING/TEST-CASES/TC-Search-Functionality.md)**
 
 #### ⚫ Bug Report: Contact Form Submission Issue
-*   **Açıklama:** Varsayımsal bir senaryo üzerinden, mobil cihazlarda karşılaşılan bir hata için hazırlanmış detaylı hata raporu örneğidir.
-*   **[➡️ Dökümanı Görüntüle](MANUAL-TESTING/BUG-REPORTS/BUG-Contact-Form-Issue.md)**
+*   **Description:** A detailed bug report example for a hypothetical issue encountered on mobile devices, demonstrating clear and effective defect documentation.
+*   **[➡️ View Document](MANUAL-TESTING/BUG-REPORTS/BUG-Contact-Form-Issue.md)**
 
 ---
 
 ### 📂 Automation Testing (In Progress)
 
-Yazılım test otomasyonu üzerine yaptığım çalışmalar ve öğrendiğim teknolojilerle ilgili projeler bu bölümde yer alacaktır.
+This section will feature projects related to my studies in software test automation and the technologies I'm learning.
